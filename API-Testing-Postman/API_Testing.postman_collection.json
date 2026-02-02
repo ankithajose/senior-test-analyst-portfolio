@@ -1,6 +1,6 @@
 {
   "info": {
-    "name": "Senior QA API Testing – Sample Collection",
+    "name": "API Testing – Sample Collection",
     "description": "Sample REST API tests demonstrating GET, POST, PUT and DELETE with basic validations. Designed for Senior Test Analyst portfolio.",
     "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
   },
@@ -127,3 +127,4 @@
     }
   ]
 }
+
